@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hi Tonystark
 I am Rehzam.
+=======
+- hy
+- tony
+- ok
+>>>>>>> a1e6485ffb22d713f9b05a96e4d6df1e3bdcf9f2
